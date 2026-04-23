@@ -1,0 +1,4 @@
+# Pegar el contenido de autobackup.sh
+nano autobackup.sh
+chmod +x backup.sh autobackup.sh
+

@@ -1,0 +1,688 @@
+bash: backup.sh: No such file or directory
+bash: backup.sh: No such file or directory
+bash: backup.sh: No such file or directory
+[BACKUP] Iniciando backup: 2026-04-21_14-07-04
+[BACKUP] Comprimido: backups/world_2026-04-21_14-07-04.tar.gz
+[main 6117daf] backup: 2026-04-21_14-07-04
+ 52 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 backups/world_2026-04-19_05-49-04.tar.gz
+ delete mode 100644 backups/world_2026-04-19_14-46-24.tar.gz
+ delete mode 100644 backups/world_2026-04-19_14-53-29.tar.gz
+ delete mode 100644 backups/world_2026-04-19_14-58-41.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-03-54.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-09-06.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-14-19.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-19-33.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-24-47.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-30-02.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-35-16.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-40-31.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-45-45.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-51-00.tar.gz
+ delete mode 100644 backups/world_2026-04-19_15-56-15.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-01-30.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-06-44.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-11-59.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-17-15.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-22-30.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-27-45.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-33-00.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-38-17.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-43-33.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-48-50.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-54-05.tar.gz
+ delete mode 100644 backups/world_2026-04-19_16-59-20.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-04-35.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-09-51.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-15-06.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-20-20.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-25-36.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-30-50.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-36-09.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-41-29.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-46-51.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-52-09.tar.gz
+ delete mode 100644 backups/world_2026-04-19_17-57-18.tar.gz
+ delete mode 100644 backups/world_2026-04-19_18-02-28.tar.gz
+ delete mode 100644 backups/world_2026-04-19_18-07-38.tar.gz
+ delete mode 100644 backups/world_2026-04-19_18-12-48.tar.gz
+ delete mode 100644 backups/world_2026-04-19_22-39-04.tar.gz
+ delete mode 100644 backups/world_2026-04-19_22-44-27.tar.gz
+ delete mode 100644 backups/world_2026-04-19_22-49-47.tar.gz
+ delete mode 100644 backups/world_2026-04-19_22-55-07.tar.gz
+ delete mode 100644 backups/world_2026-04-19_23-00-26.tar.gz
+ delete mode 100644 backups/world_2026-04-19_23-05-46.tar.gz
+ delete mode 100644 backups/world_2026-04-19_23-11-05.tar.gz
+ delete mode 100644 backups/world_2026-04-19_23-16-20.tar.gz
+ delete mode 100644 backups/world_2026-04-19_23-21-35.tar.gz
+ create mode 100644 backups/world_2026-04-21_13-19-50.tar.gz
+ create mode 100644 backups/world_2026-04-21_14-07-04.tar.gz
+error: RPC failed; HTTP 408 curl 22 The requested URL returned error: 408
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_14-14-51
+[BACKUP] Comprimido: backups/world_2026-04-21_14-14-51.tar.gz
+[main f1f4fd8] backup: 2026-04-21_14-14-51
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 backups/world_2026-04-21_14-14-51.tar.gz
+error: RPC failed; HTTP 408 curl 22 The requested URL returned error: 408
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_14-21-31
+[BACKUP] Comprimido: backups/world_2026-04-21_14-21-31.tar.gz
+[main 4875ecf] backup: 2026-04-21_14-21-31
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 backups/world_2026-04-21_14-21-31.tar.gz
+error: RPC failed; HTTP 408 curl 22 The requested URL returned error: 408
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_14-29-11
+[BACKUP] Comprimido: backups/world_2026-04-21_14-29-11.tar.gz
+[main 2d72829] backup: 2026-04-21_14-29-11
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 backups/world_2026-04-21_14-29-11.tar.gz
+remote: error: Trace: 05fd086f2a72ee6eae09406f5e1ff7d16deb353881367a0eee7fd8a10d2f7f5a        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File backups/world_2026-04-21_14-07-04.tar.gz is 209.99 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-14-51.tar.gz is 210.02 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-21-31.tar.gz is 210.05 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-29-11.tar.gz is 210.04 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_13-19-50.tar.gz is 202.37 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/lololol1921/NewServer
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_14-37-05
+[BACKUP] Comprimido: backups/world_2026-04-21_14-37-05.tar.gz
+[main 91014bf] backup: 2026-04-21_14-37-05
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 backups/world_2026-04-21_14-37-05.tar.gz
+remote: error: Trace: a3da6e1ef7a4f7a4797013621ead33df13ed4f533273bfa42dc0657adb5c7f78        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File backups/world_2026-04-21_14-14-51.tar.gz is 210.02 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-21-31.tar.gz is 210.05 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-29-11.tar.gz is 210.04 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_13-19-50.tar.gz is 202.37 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-07-04.tar.gz is 209.99 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/lololol1921/NewServer
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_14-45-18
+[BACKUP] Comprimido: backups/world_2026-04-21_14-45-18.tar.gz
+[main 681a7d0] backup: 2026-04-21_14-45-18
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 backups/world_2026-04-21_14-45-18.tar.gz
+remote: error: Trace: c5b2fd4e2fb36f39d137c1396fdf6c9abffcb46a85353797b3515f71abb0a83e        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File backups/world_2026-04-21_13-19-50.tar.gz is 202.37 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-07-04.tar.gz is 209.99 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-14-51.tar.gz is 210.02 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-21-31.tar.gz is 210.05 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-29-11.tar.gz is 210.04 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/lololol1921/NewServer
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_14-53-01
+[BACKUP] Comprimido: backups/world_2026-04-21_14-53-01.tar.gz
+[main f5ab171] backup: 2026-04-21_14-53-01
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 backups/world_2026-04-21_14-53-01.tar.gz
+remote: error: Trace: 59666830bc87a3cfa7109268f746d296245e77374078e1e092de982063c6fafb        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File backups/world_2026-04-21_14-07-04.tar.gz is 209.99 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-14-51.tar.gz is 210.02 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-21-31.tar.gz is 210.05 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-29-11.tar.gz is 210.04 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_13-19-50.tar.gz is 202.37 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/lololol1921/NewServer
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_16-25-07
+[BACKUP] Comprimido: backups/world_2026-04-21_16-25-07.tar.gz
+[main 57c1f65] backup: 2026-04-21_16-25-07
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 backups/world_2026-04-21_13-19-50.tar.gz
+ delete mode 100644 backups/world_2026-04-21_14-07-04.tar.gz
+ delete mode 100644 backups/world_2026-04-21_14-21-31.tar.gz
+ rename backups/{world_2026-04-21_14-14-51.tar.gz => world_2026-04-21_16-25-07.tar.gz} (90%)
+remote: error: Trace: fbf429a13712749ea2b6de617bfc35b9422d021382e2ccc4a681778145306a3f        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File backups/world_2026-04-21_16-25-07.tar.gz is 210.05 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-07-04.tar.gz is 209.99 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-14-51.tar.gz is 210.02 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-21-31.tar.gz is 210.05 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_13-19-50.tar.gz is 202.37 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File backups/world_2026-04-21_14-29-11.tar.gz is 210.04 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/lololol1921/NewServer
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_16-41-08
+[BACKUP] Comprimido: backups/world_2026-04-21_16-41-08.tar.gz
+[main b909405] backup: 2026-04-21_16-41-08
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_14-29-11.tar.gz => world_2026-04-21_16-41-08.tar.gz} (90%)
+error: RPC failed; HTTP 408 curl 22 The requested URL returned error: 408
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_16-56-54
+[BACKUP] Comprimido: backups/world_2026-04-21_16-56-54.tar.gz
+[main 1015848] backup: 2026-04-21_16-56-54
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_14-37-05.tar.gz => world_2026-04-21_16-56-54.tar.gz} (90%)
+error: RPC failed; HTTP 408 curl 22 The requested URL returned error: 408
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_17-13-40
+[BACKUP] Comprimido: backups/world_2026-04-21_17-13-40.tar.gz
+[main f5dc29b] backup: 2026-04-21_17-13-40
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_14-45-18.tar.gz => world_2026-04-21_17-13-40.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_17-30-21
+[BACKUP] Comprimido: backups/world_2026-04-21_17-30-21.tar.gz
+[main 9a52c9d] backup: 2026-04-21_17-30-21
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_14-53-01.tar.gz => world_2026-04-21_17-30-21.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_17-43-41
+[BACKUP] Comprimido: backups/world_2026-04-21_17-43-41.tar.gz
+[main b98f49b] backup: 2026-04-21_17-43-41
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_16-25-07.tar.gz => world_2026-04-21_17-43-41.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_17-56-50
+[BACKUP] Comprimido: backups/world_2026-04-21_17-56-50.tar.gz
+[main 7d788bb] backup: 2026-04-21_17-56-50
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_16-41-08.tar.gz => world_2026-04-21_17-56-50.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_18-09-53
+[BACKUP] Comprimido: backups/world_2026-04-21_18-09-53.tar.gz
+[main 6984939] backup: 2026-04-21_18-09-53
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_16-56-54.tar.gz => world_2026-04-21_18-09-53.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_18-23-15
+[BACKUP] Comprimido: backups/world_2026-04-21_18-23-15.tar.gz
+[main e79317e] backup: 2026-04-21_18-23-15
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_17-13-40.tar.gz => world_2026-04-21_18-23-15.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_18-36-17
+[BACKUP] Comprimido: backups/world_2026-04-21_18-36-17.tar.gz
+[main c3411dc] backup: 2026-04-21_18-36-17
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_17-30-21.tar.gz => world_2026-04-21_18-36-17.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_18-49-19
+[BACKUP] Comprimido: backups/world_2026-04-21_18-49-19.tar.gz
+[main 9d796b6] backup: 2026-04-21_18-49-19
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_17-43-41.tar.gz => world_2026-04-21_18-49-19.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_19-02-34
+[BACKUP] Comprimido: backups/world_2026-04-21_19-02-34.tar.gz
+[main f46fdb2] backup: 2026-04-21_19-02-34
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_17-56-50.tar.gz => world_2026-04-21_19-02-34.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_19-16-08
+[BACKUP] Comprimido: backups/world_2026-04-21_19-16-08.tar.gz
+[main 38f013e] backup: 2026-04-21_19-16-08
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_18-09-53.tar.gz => world_2026-04-21_19-16-08.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_19-30-05
+[BACKUP] Comprimido: backups/world_2026-04-21_19-30-05.tar.gz
+[main bf98912] backup: 2026-04-21_19-30-05
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_18-23-15.tar.gz => world_2026-04-21_19-30-05.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_19-43-19
+[BACKUP] Comprimido: backups/world_2026-04-21_19-43-19.tar.gz
+[main d54941e] backup: 2026-04-21_19-43-19
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_18-36-17.tar.gz => world_2026-04-21_19-43-19.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_19-55-35
+[BACKUP] Comprimido: backups/world_2026-04-21_19-55-35.tar.gz
+[main 3f65119] backup: 2026-04-21_19-55-35
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_18-49-19.tar.gz => world_2026-04-21_19-55-35.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_20-07-52
+[BACKUP] Comprimido: backups/world_2026-04-21_20-07-52.tar.gz
+[main 53dfc10] backup: 2026-04-21_20-07-52
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_19-02-34.tar.gz => world_2026-04-21_20-07-52.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_20-19-08
+[BACKUP] Comprimido: backups/world_2026-04-21_20-19-08.tar.gz
+[main 5b141de] backup: 2026-04-21_20-19-08
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_19-16-08.tar.gz => world_2026-04-21_20-19-08.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_20-31-17
+[BACKUP] Comprimido: backups/world_2026-04-21_20-31-17.tar.gz
+[main 6aced2e] backup: 2026-04-21_20-31-17
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_19-30-05.tar.gz => world_2026-04-21_20-31-17.tar.gz} (91%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_20-43-22
+[BACKUP] Comprimido: backups/world_2026-04-21_20-43-22.tar.gz
+[main 523dc48] backup: 2026-04-21_20-43-22
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_19-43-19.tar.gz => world_2026-04-21_20-43-22.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_20-55-29
+[BACKUP] Comprimido: backups/world_2026-04-21_20-55-29.tar.gz
+[main feb8e8c] backup: 2026-04-21_20-55-29
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 backups/world_2026-04-21_19-55-35.tar.gz
+ delete mode 100644 backups/world_2026-04-21_20-07-52.tar.gz
+ rename backups/{world_2026-04-21_20-19-08.tar.gz => world_2026-04-21_20-55-29.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_21-08-51
+[BACKUP] Comprimido: backups/world_2026-04-21_21-08-51.tar.gz
+[main a1550ca] backup: 2026-04-21_21-08-51
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 backups/world_2026-04-21_21-08-51.tar.gz
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_21-22-02
+[BACKUP] Comprimido: backups/world_2026-04-21_21-22-02.tar.gz
+[main e5dd843] backup: 2026-04-21_21-22-02
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 backups/world_2026-04-21_21-22-02.tar.gz
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_21-35-14
+[BACKUP] Comprimido: backups/world_2026-04-21_21-35-14.tar.gz
+[main 5b44130] backup: 2026-04-21_21-35-14
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_20-31-17.tar.gz => world_2026-04-21_21-35-14.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-21_21-48-27
+[BACKUP] Comprimido: backups/world_2026-04-21_21-48-27.tar.gz
+[main 386aac0] backup: 2026-04-21_21-48-27
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_20-43-22.tar.gz => world_2026-04-21_21-48-27.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-22_22-54-01
+[BACKUP] Comprimido: backups/world_2026-04-22_22-54-01.tar.gz
+[main 7fdaf58] backup: 2026-04-22_22-54-01
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_21-22-02.tar.gz => world_2026-04-22_22-54-01.tar.gz} (84%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-22_23-07-32
+[BACKUP] Comprimido: backups/world_2026-04-22_23-07-32.tar.gz
+[main 5071fae] backup: 2026-04-22_23-07-32
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_21-35-14.tar.gz => world_2026-04-22_23-07-32.tar.gz} (82%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-22_23-21-33
+[BACKUP] Comprimido: backups/world_2026-04-22_23-21-33.tar.gz
+[main 8029767] backup: 2026-04-22_23-21-33
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_21-48-27.tar.gz => world_2026-04-22_23-21-33.tar.gz} (80%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-22_23-34-10
+[BACKUP] Comprimido: backups/world_2026-04-22_23-34-10.tar.gz
+[main cba9649] backup: 2026-04-22_23-34-10
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-21_22-36-42.tar.gz => world_2026-04-22_23-34-10.tar.gz} (74%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-22_23-47-46
+[BACKUP] Comprimido: backups/world_2026-04-22_23-47-46.tar.gz
+[main 61a6996] backup: 2026-04-22_23-47-46
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-22_22-41-29.tar.gz => world_2026-04-22_23-47-46.tar.gz} (75%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_00-00-53
+[BACKUP] Comprimido: backups/world_2026-04-23_00-00-53.tar.gz
+[main bf097c5] backup: 2026-04-23_00-00-53
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-22_22-54-01.tar.gz => world_2026-04-23_00-00-53.tar.gz} (76%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_00-12-38
+[BACKUP] Comprimido: backups/world_2026-04-23_00-12-38.tar.gz
+[main d0d909d] backup: 2026-04-23_00-12-38
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-22_23-07-32.tar.gz => world_2026-04-23_00-12-38.tar.gz} (79%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_00-24-23
+[BACKUP] Comprimido: backups/world_2026-04-23_00-24-23.tar.gz
+[main 2eced1a] backup: 2026-04-23_00-24-23
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-22_23-21-33.tar.gz => world_2026-04-23_00-24-23.tar.gz} (81%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_00-35-41
+[BACKUP] Comprimido: backups/world_2026-04-23_00-35-41.tar.gz
+[main 0147dec] backup: 2026-04-23_00-35-41
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-22_23-34-10.tar.gz => world_2026-04-23_00-35-41.tar.gz} (87%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_00-47-09
+[BACKUP] Comprimido: backups/world_2026-04-23_00-47-09.tar.gz
+[main f1b6e6c] backup: 2026-04-23_00-47-09
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-22_23-47-46.tar.gz => world_2026-04-23_00-47-09.tar.gz} (91%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_00-58-33
+[BACKUP] Comprimido: backups/world_2026-04-23_00-58-33.tar.gz
+[main ea4210f] backup: 2026-04-23_00-58-33
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-23_00-00-53.tar.gz => world_2026-04-23_00-58-33.tar.gz} (92%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_01-10-17
+[BACKUP] Comprimido: backups/world_2026-04-23_01-10-17.tar.gz
+[main e940937] backup: 2026-04-23_01-10-17
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-23_00-12-38.tar.gz => world_2026-04-23_01-10-17.tar.gz} (91%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_01-22-05
+[BACKUP] Comprimido: backups/world_2026-04-23_01-22-05.tar.gz
+[main 45589f2] backup: 2026-04-23_01-22-05
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-23_00-24-23.tar.gz => world_2026-04-23_01-22-05.tar.gz} (91%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_01-33-46
+[BACKUP] Comprimido: backups/world_2026-04-23_01-33-46.tar.gz
+[main cb7cade] backup: 2026-04-23_01-33-46
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-23_00-35-41.tar.gz => world_2026-04-23_01-33-46.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_01-45-35
+[BACKUP] Comprimido: backups/world_2026-04-23_01-45-35.tar.gz
+[main b41748b] backup: 2026-04-23_01-45-35
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-23_00-47-09.tar.gz => world_2026-04-23_01-45-35.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_01-57-19
+[BACKUP] Comprimido: backups/world_2026-04-23_01-57-19.tar.gz
+[main cc60ad1] backup: 2026-04-23_01-57-19
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-23_00-58-33.tar.gz => world_2026-04-23_01-57-19.tar.gz} (89%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_02-08-59
+[BACKUP] Comprimido: backups/world_2026-04-23_02-08-59.tar.gz
+[main 838046c] backup: 2026-04-23_02-08-59
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-23_01-10-17.tar.gz => world_2026-04-23_02-08-59.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_02-21-19
+[BACKUP] Comprimido: backups/world_2026-04-23_02-21-19.tar.gz
+[main 2e7b33a] backup: 2026-04-23_02-21-19
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename backups/{world_2026-04-23_01-22-05.tar.gz => world_2026-04-23_02-21-19.tar.gz} (90%)
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK
+[BACKUP] Iniciando backup: 2026-04-23_02-33-11
+[BACKUP] Comprimido: backups/world_2026-04-23_02-33-11.tar.gz
+[main cac9c8a] backup: 2026-04-23_02-33-11
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 backups/world_2026-04-23_01-33-46.tar.gz
+ create mode 100644 backups/world_2026-04-23_02-33-11.tar.gz
+error: pack-objects died of signal 15
+error: pack-objects died of signal 15
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/lololol1921/NewServer'
+[BACKUP] Subido a GitHub OK

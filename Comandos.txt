@@ -1,0 +1,21 @@
+bash launch.sh
+
+stop
+
+bash backup.sh
+
+
+# Ver los disponibles
+ls -t backups/
+
+# Restaurar el más reciente
+cd backups && tar -xzf $(ls -t *.tar.gz | head -1) -C ../ && cd ..
+
+# Restaurar uno específico
+cd backups && tar -xzf world_2024-01-15_03-00-00.tar.gz -C ../ && cd ..
+
+
+
+tmux send-keys -t minecraft "stop" Enter
+sleep 5
+tmux kill-server
